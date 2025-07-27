@@ -1,0 +1,83 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header button{
+    background-color: #BA4270;
+    width: 173px;
+    height: 48px;
+    border-radius: 24px;
+    border: none;
+    font-size: 15px;
+    color: white;
+}
+header a{
+    color: #36536B;
+    font-size: 15px;
+    text-decoration: none;
+}
+header div{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+.box div{
+    width: 440px;
+    height: 292px;
+}
+.rasm{
+    position: absolute;
+    margin-left: 476px;
+    margin-top: -120px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.rasm2{
+    position: absolute;
+    margin-left: -495px;
+    margin-top: -80px;
+    flex-wrap: wrap;
+}
+.box2 div{
+    width: 445px;
+    height: 164px;
+}
+.box2 h1{
+    font-size: 48px;
+
+}
+.box2 p{
+    font-size: 15px;
+}
+footer{
+    height: 100px;
+    background-color: #1B262F;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+footer div{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+footer a{
+    color: #36536B;
+    text-decoration: none;
+}
+.all{
+    flex-wrap: wrap;
+}
